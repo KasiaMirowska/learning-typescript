@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/KasiaMirowska/learning-typescript.git"
+    "url": "https://github.com/KasiaMirowska/learning-typescript.git"
   },
   "author": "kasia",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/KasiaMirowska/learning-typescript/issues"
+  "deDependencies": {
+    "lite-server": "^2.6.1"
   },
-  "homepage": "https://github.com/KasiaMirowska/learning-typescript#readme"
+  
 }
